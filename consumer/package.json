@@ -21,5 +21,9 @@
   "homepage": "https://github.com/SonofNun15/typescript-library-test#readme",
   "dependencies": {
     "library": "file:../library"
+  },
+  "devDependencies": {
+    "ts-loader": "^0.5.5",
+    "typescript": "^1.6.2"
   }
 }
