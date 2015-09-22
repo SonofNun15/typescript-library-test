@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SonofNun15/typescript-library-test/issues"
   },
-  "homepage": "https://github.com/SonofNun15/typescript-library-test#readme"
+  "homepage": "https://github.com/SonofNun15/typescript-library-test#readme",
+  "dependencies": {
+    "library": "file:../library"
+  }
 }
