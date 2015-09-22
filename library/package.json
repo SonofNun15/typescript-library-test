@@ -1,19 +1,19 @@
 {
-  "name": "library",
-  "version": "1.0.0",
-  "description": "A sample library for testing typescript library functionality",
-  "main": "./built/library.js",
-	"typings": "./built/library.d.ts",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/SonofNun15/typescript-library-test"
-	},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "ts",
-    "libraries"
-  ],
-  "author": "Josh Graber"
+    "name": "library",
+    "version": "1.0.0",
+    "description": "A sample library for testing typescript library functionality",
+    "main": "./built/library.js",
+    "typings": "./built/library.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SonofNun15/typescript-library-test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ts",
+        "libraries"
+    ],
+    "author": "Josh Graber"
 }

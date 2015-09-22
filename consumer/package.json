@@ -1,29 +1,29 @@
 {
-  "name": "consumer",
-  "version": "1.0.0",
-  "description": "A simple typescript app that consumes a typescript library",
-  "main": "./source/app.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/SonofNun15/typescript-library-test.git"
-  },
-  "keywords": [
-    "ts",
-    "consumer"
-  ],
-  "author": "Josh Graber",
-  "bugs": {
-    "url": "https://github.com/SonofNun15/typescript-library-test/issues"
-  },
-  "homepage": "https://github.com/SonofNun15/typescript-library-test#readme",
-  "dependencies": {
-    "library": "file:../library"
-  },
-  "devDependencies": {
-    "ts-loader": "^0.5.5",
-    "typescript": "^1.6.2"
-  }
+    "name": "consumer",
+    "version": "1.0.0",
+    "description": "A simple typescript app that consumes a typescript library",
+    "main": "./source/app.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/SonofNun15/typescript-library-test.git"
+    },
+    "keywords": [
+        "ts",
+        "consumer"
+    ],
+    "author": "Josh Graber",
+    "bugs": {
+        "url": "https://github.com/SonofNun15/typescript-library-test/issues"
+    },
+    "homepage": "https://github.com/SonofNun15/typescript-library-test#readme",
+    "dependencies": {
+        "library": "file:../library"
+    },
+    "devDependencies": {
+        "ts-loader": "^0.5.5",
+        "typescript": "^1.6.2"
+    }
 }

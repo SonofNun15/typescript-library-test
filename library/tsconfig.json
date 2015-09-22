@@ -6,11 +6,11 @@
         "outDir": "built",
         "rootDir": ".",
         "sourceMap": false,
-		"declaration": true
+        "declaration": true
     },
-	"files": [
-		"./source/library.ts"
-	],
+    "files": [
+        "./source/library.ts"
+    ],
     "exclude": [
         "node_modules"
     ]

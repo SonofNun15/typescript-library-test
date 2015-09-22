@@ -6,11 +6,11 @@
         "outDir": "built",
         "rootDir": ".",
         "sourceMap": false,
-		"moduleResolution": "node"
+        "moduleResolution": "node"
     },
-	"file": [
-		"./source/app.ts"
-	],
+    "file": [
+        "./source/app.ts"
+    ],
     "exclude": [
         "node_modules"
     ]
