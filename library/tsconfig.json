@@ -1,12 +1,16 @@
 {
     "compilerOptions": {
         "module": "commonjs",
-        "target": "es3",
+        "target": "es5",
         "noImplicitAny": false,
         "outDir": "built",
         "rootDir": ".",
-        "sourceMap": false
+        "sourceMap": false,
+		"declaration": true
     },
+	"files": [
+		"./source/library.ts"
+	],
     "exclude": [
         "node_modules"
     ]
