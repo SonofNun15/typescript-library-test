@@ -5,6 +5,8 @@ This repository explores the idea of exporting a typescript library that can be 
 
 This library is installed as a depedency into `consumer` using npm. `consumer` then imports this library using the ES6 module syntax (the commonjs syntax has the same issues) and tries to use it. 
 
+## Real life example
+
 To see a more complicated example of this working "in the wild," check out these open source repositories we are building at Renovo Solutions:
 * https://github.com/RenovoSolutions/TypeScript-Angular-Utilities
 * https://github.com/RenovoSolutions/TypeScript-Angular-Components 
